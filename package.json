@@ -17,7 +17,8 @@
         "node-red-contrib-ibmpush":"0.x",
         "node-red-contrib-bluemix-hdfs":"0.x",
         "node-red-nodes-cf-sqldb-dashdb":"0.x",
-        "node-red-contrib-firebase":"1.1.1"
+        "node-red-contrib-firebase":"1.1.1",
+        "crc":"3.x"
     },
     "engines": {
         "node": "0.12.x"
